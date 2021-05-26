@@ -1,0 +1,72 @@
+1. Root/First level
+~
+Gas Station
+Joey
+"Howdy stranger, we don't get many travelers in these parts, need a fill up?"
+3
+2. Second level -- First Child
+"Yes, regular please"
+Gas Station
+Joey
+"When y'came in I could hear something clunkin' in the engine, want me to check it?"
+2
+3. Second level -- Second Child
+"Nah I'm fine"
+Gas Station
+Joey
+You attempt to crank up, the car sputters and and struggles "Nobody lis'en' to Ol' Joey when he say sum'fins screwy wit' 'they car, then sum'in like this happens... You ain't got much choice but t'leav'er here it seems... Tell y'hwat, go see the locals... Kill some time, an'come on back later..."
+2
+4. Second level -- Third Child
+"What town is this?"
+Gas Station
+Joey
+~
+0
+5. Second level -- Fourth Child
+~
+6. Second level -- Fifth Child
+~
+7. Second level -- Sixth Child
+~
+9. Third level -- First Child
+"Yeah, must've driven over some rocks or something."
+~
+~
+~
+~
+10. Third level -- Second Child
+"Nah, that sound builds character."
+~
+~
+~
+~
+11. Third Level -- Third Child
+~
+12. Third Level -- Fourth Child
+~
+13. Third Level -- Fifth Child
+~
+14. Third Level -- Sixth Child
+~
+15. Third level -- Seventh Child
+"Alright"
+~
+~
+~
+~
+16. Third level -- Eigth Child
+"Fine"
+~
+~
+~
+~
+17. Third Level -- Ninth Child
+~
+18. Third Level -- Tenth Child
+~
+19. Third Level -- Eleventh Child
+~
+20. Third Level -- Twelvth Child
+~
+21. Fourth Level -- Thirteenth Child
+~
